@@ -14,6 +14,30 @@ This project involves designing, assembling, and testing an Arduino shield with 
 | Oled                 | SSD1306 - 0.96" - 128X64 - I2C |
 | PushButtom           | SMT Tactile 2PIN - SPST - 6X3X2 |
 
+## Pinout
+| Sheild  | Arduino | ATMega328 | 
+|  :---:  | :---:   | :---:     |
+|  Seg_A  | A0      | PC0       |
+|  Seg_B  | A1      | PC1       |
+|  Seg_C  | A2      | PC2       |
+|  Seg_D  | A3      | PC3       |
+|  SDA    | A4      | PC4       |
+|  SCL    | A5      | PC5       |
+|  Seg_E  | D0      | PD0       |
+|  Seg_F  | D1      | PD1       |
+|  SW1    | D2      | PD2       | 
+|  SW2    | D3      | PD3       |
+|  Seg_G  | D4      | PD4       |
+|  RGB_R  | D5      | PD5       |
+|  RGB_G  | D6      | PD6       |
+|  Seg_DP | D7      | PD7       |
+|  Digit1 | D8      | PB0       |
+|  Digit2 | D9      | PB1       |
+|  Digit3 | D10     | PB2       |
+|  RGB_B  | D11     | PB3       | 
+|  Digit4 | D12     | PB4       |
+|  SW3    | D13     | PB5       | 
+
 ## Project Videos
 - [aKaReZa 36 - PCB, 7Segment Shield - Part A](https://youtu.be/BtFFsqzkCSk)  
   ---  
