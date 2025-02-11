@@ -15,28 +15,28 @@ This project involves designing, assembling, and testing an Arduino shield with 
 | PushButtom           | SMT Tactile 2PIN - SPST - 6X3X2 |
 
 ## Pinout
-| Sheild  | Arduino | ATMega328 | 
-|  :---:  | :---:   | :---:     |
-|  Seg_A  | A0      | PC0       |
-|  Seg_B  | A1      | PC1       |
-|  Seg_C  | A2      | PC2       |
-|  Seg_D  | A3      | PC3       |
-|  SDA    | A4      | PC4       |
-|  SCL    | A5      | PC5       |
-|  Seg_E  | D0      | PD0       |
-|  Seg_F  | D1      | PD1       |
-|  SW1    | D2      | PD2       | 
-|  SW2    | D3      | PD3       |
-|  Seg_G  | D4      | PD4       |
-|  RGB_R  | D5      | PD5       |
-|  RGB_G  | D6      | PD6       |
-|  Seg_DP | D7      | PD7       |
-|  Digit1 | D8      | PB0       |
-|  Digit2 | D9      | PB1       |
-|  Digit3 | D10     | PB2       |
-|  RGB_B  | D11     | PB3       | 
-|  Digit4 | D12     | PB4       |
-|  SW3    | D13     | PB5       | 
+| **Shield Pin**             | **Arduino Pin**      | **ATMega328 Pin**            |
+|:--------------------------:|:--------------------:|:----------------------------:|
+| **Segment A (7-Segment)**  | **Analog Pin A0**    | **Port C, Pin 0 (PC0)**      |
+| **Segment B (7-Segment)**  | **Analog Pin A1**    | **Port C, Pin 1 (PC1)**      |
+| **Segment C (7-Segment)**  | **Analog Pin A2**    | **Port C, Pin 2 (PC2)**      |
+| **Segment D (7-Segment)**  | **Analog Pin A3**    | **Port C, Pin 3 (PC3)**      |
+| **Segment E (7-Segment)**  | **Digital Pin D0**   | **Port D, Pin 0 (PD0)**      |
+| **Segment F (7-Segment)**  | **Digital Pin D1**   | **Port D, Pin 1 (PD1)**      |
+| **Segment G (7-Segment)**  | **Digital Pin D4**   | **Port D, Pin 4 (PD4)**      |
+| **Decimal Point (7-Segment)** | **Digital Pin D7** | **Port D, Pin 7 (PD7)**     |
+| **Digit 1 (Common Cathode)**  | **Digital Pin D8**  | **Port B, Pin 0 (PB0)**    |
+| **Digit 2 (Common Cathode)**  | **Digital Pin D9**  | **Port B, Pin 1 (PB1)**    |
+| **Digit 3 (Common Cathode)**  | **Digital Pin D10** | **Port B, Pin 2 (PB2)**    |
+| **Digit 4 (Common Cathode)**  | **Digital Pin D12** | **Port B, Pin 4 (PB4)**    |
+| **Switch 1**               | **Digital Pin D2**   | **Port D, Pin 2 (PD2)**      |
+| **Switch 2**               | **Digital Pin D3**   | **Port D, Pin 3 (PD3)**      |
+| **Switch 3**               | **Digital Pin D13**  | **Port B, Pin 5 (PB5)**      |
+| **RGB Red**                | **Digital Pin D5**   | **Port D, Pin 5 (PD5)**      |
+| **RGB Green**              | **Digital Pin D6**   | **Port D, Pin 6 (PD6)**      |
+| **RGB Blue**               | **Digital Pin D11**  | **Port B, Pin 3 (PB3)**      |
+| **Serial Data (SDA)**      | **Analog Pin A4**    | **Port C, Pin 4 (PC4)**      |
+| **Serial Clock (SCL)**     | **Analog Pin A5**    | **Port C, Pin 5 (PC5)**      |
 
 ## Project Videos
 - [aKaReZa 36 - PCB, 7Segment Shield - Part A](https://youtu.be/BtFFsqzkCSk)  
