@@ -14,6 +14,43 @@ This project involves designing, assembling, and testing an Arduino shield with 
 | Oled                 | SSD1306 - 0.96" - 128X64 - I2C |
 | PushButtom           | SMT Tactile 2PIN - SPST - 6X3X2 |
 
+## Pinout
+| **Shield Pin**             | **Arduino Pin**      | **ATMega328 Pin**            |
+|:--------------------------:|:--------------------:|:----------------------------:|
+| **Segment A (7-Segment)**  | **Analog Pin A0**    | **Port C, Pin 0 (PC0)**      |
+| **Segment B (7-Segment)**  | **Analog Pin A1**    | **Port C, Pin 1 (PC1)**      |
+| **Segment C (7-Segment)**  | **Analog Pin A2**    | **Port C, Pin 2 (PC2)**      |
+| **Segment D (7-Segment)**  | **Analog Pin A3**    | **Port C, Pin 3 (PC3)**      |
+| **Segment E (7-Segment)**  | **Digital Pin D0**   | **Port D, Pin 0 (PD0)**      |
+| **Segment F (7-Segment)**  | **Digital Pin D1**   | **Port D, Pin 1 (PD1)**      |
+| **Segment G (7-Segment)**  | **Digital Pin D4**   | **Port D, Pin 4 (PD4)**      |
+| **Decimal Point (7-Segment)** | **Digital Pin D7** | **Port D, Pin 7 (PD7)**     |
+| **Digit 1 (Common Cathode)**  | **Digital Pin D8**  | **Port B, Pin 0 (PB0)**    |
+| **Digit 2 (Common Cathode)**  | **Digital Pin D9**  | **Port B, Pin 1 (PB1)**    |
+| **Digit 3 (Common Cathode)**  | **Digital Pin D10** | **Port B, Pin 2 (PB2)**    |
+| **Digit 4 (Common Cathode)**  | **Digital Pin D12** | **Port B, Pin 4 (PB4)**    |
+| **Switch 1 (Active High)**    | **Digital Pin D2**  | **Port D, Pin 2 (PD2)**    |
+| **Switch 2 (Active High)**    | **Digital Pin D3**  | **Port D, Pin 3 (PD3)**    |
+| **Switch 3 (Active High)**    | **Digital Pin D13** | **Port B, Pin 5 (PB5)**    |
+| **RGB Green  (Active High)**  | **Digital Pin D5**  | **Port D, Pin 5 (PD5)**    |
+| **RGB Blue (Active High)**    | **Digital Pin D6**  | **Port D, Pin 6 (PD6)**    |
+| **RGB RED (Active High)**     | **Digital Pin D11** | **Port B, Pin 3 (PB3)**    |
+| **Serial Data (SDA)**      | **Analog Pin A4**    | **Port C, Pin 4 (PC4)**      |
+| **Serial Clock (SCL)**     | **Analog Pin A5**    | **Port C, Pin 5 (PC5)**      |
+
+## Resources
+- [Altium Library](https://github.com/aKaReZa75/Altium-Library)  
+  ---  
+   All PCB designs across all repositories and projects are built using this Altium Designer component library. It contains a wide range of verified footprints, schematic symbols, and 3D models, ensuring consistency and accuracy in PCB designs. If you're working on a new PCB, using this library will save you time and minimize errors.
+
+- [PCB & Electronics Design Training](https://github.com/aKaReZa75/PCB)  
+  ---  
+  This repository is dedicated to **learning PCB design and electronics from scratch**. It covers everything from circuit theory to practical PCB layout techniques, including routing strategies, best practices, and component placement. Whether you're a beginner or an experienced designer, this resource will help you **improve your PCB design skills and create professional-quality boards**.
+
+- [Microcontroller Training](https://github.com/aKaReZa75/Microcontroller)  
+  ---  
+  This repository offers a comprehensive guide to learning **various microcontrollers** and how to interface them with different shields. You’ll find tutorials on **using and configuring shields**, along with hands-on projects to help you **get your microcontrollers up and running**. Whether you're working with **Arduino, STM32, ESP32**, or others, this resource will help you understand how to integrate these platforms effectively for your projects.
+
 ## Project Videos
 - [aKaReZa 36 - PCB, 7Segment Shield - Part A](https://youtu.be/BtFFsqzkCSk)  
   ---  
@@ -40,11 +77,6 @@ To access the repository files and save them on your computer, there are two met
 2. **Downloading the Repository as a ZIP file**
    - This method is simpler and suitable for users who are not comfortable with command-line tools.
    - Note that with this method, you will not automatically receive updates for the repository and will need to manually download any new updates.
-
-3. **Using Releases Section**
-   - This method is ideal for users who want a specific version of the repository.
-   - You can go to the "Releases" section of the repository on GitHub and download the version you need.
-   - This method ensures that you get a stable release, but you will not receive automatic updates unless you download a new release manually.
 
 ## Clone using the URL.
 First, open **Git Bash** :
