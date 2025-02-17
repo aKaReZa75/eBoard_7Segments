@@ -32,9 +32,9 @@ This project involves designing, assembling, and testing an Arduino shield with 
 | **Switch 1**               | **Digital Pin D2**   | **Port D, Pin 2 (PD2)**      |
 | **Switch 2**               | **Digital Pin D3**   | **Port D, Pin 3 (PD3)**      |
 | **Switch 3**               | **Digital Pin D13**  | **Port B, Pin 5 (PB5)**      |
-| **RGB Red**                | **Digital Pin D5**   | **Port D, Pin 5 (PD5)**      |
-| **RGB Green**              | **Digital Pin D6**   | **Port D, Pin 6 (PD6)**      |
-| **RGB Blue**               | **Digital Pin D11**  | **Port B, Pin 3 (PB3)**      |
+| **RGB Green**              | **Digital Pin D5**   | **Port D, Pin 5 (PD5)**      |
+| **RGB Blue**               | **Digital Pin D6**   | **Port D, Pin 6 (PD6)**      |
+| **RGB RED**                | **Digital Pin D11**  | **Port B, Pin 3 (PB3)**      |
 | **Serial Data (SDA)**      | **Analog Pin A4**    | **Port C, Pin 4 (PC4)**      |
 | **Serial Clock (SCL)**     | **Analog Pin A5**    | **Port C, Pin 5 (PC5)**      |
 
