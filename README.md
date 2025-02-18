@@ -29,9 +29,9 @@ This project involves designing, assembling, and testing an Arduino shield with 
 | **Digit 2 (Common Cathode)**  | **Digital Pin D9**  | **Port B, Pin 1 (PB1)**    |
 | **Digit 3 (Common Cathode)**  | **Digital Pin D10** | **Port B, Pin 2 (PB2)**    |
 | **Digit 4 (Common Cathode)**  | **Digital Pin D12** | **Port B, Pin 4 (PB4)**    |
-| **Switch 1 (Active High)**    | **Digital Pin D2**  | **Port D, Pin 2 (PD2)**    |
+| **Switch 1 (Active High)**    | **Digital Pin D13** | **Port B, Pin 5 (PB5)**    |
 | **Switch 2 (Active High)**    | **Digital Pin D3**  | **Port D, Pin 3 (PD3)**    |
-| **Switch 3 (Active High)**    | **Digital Pin D13** | **Port B, Pin 5 (PB5)**    |
+| **Switch 3 (Active High)**    | **Digital Pin D2**  | **Port D, Pin 2 (PD2)**    |
 | **RGB Green  (Active High)**  | **Digital Pin D5**  | **Port D, Pin 5 (PD5)**    |
 | **RGB Blue (Active High)**    | **Digital Pin D6**  | **Port D, Pin 6 (PD6)**    |
 | **RGB RED (Active High)**     | **Digital Pin D11** | **Port B, Pin 3 (PB3)**    |
