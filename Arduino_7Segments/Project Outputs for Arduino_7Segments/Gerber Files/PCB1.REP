@@ -2,6 +2,50 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
+Generating : Keep-Out Layer
+      File : PCB1_Keep-out.gbr
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D11
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : PCB1_Paste_Bot.gbr
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D42
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : PCB1_Paste_Top.gbr
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D14
+    D15
+    D16
+*************************************************************
+
+*************************************************************
 Generating : Bottom Solder
       File : PCB1_Soldermask_Bot.gbr
 
@@ -27,13 +71,40 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : PCB1_Keep-out.gbr
+Generating : Top Solder
+      File : PCB1_Soldermask_Top.gbr
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB1_Legend_Bot.gbr
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
     D11
 *************************************************************
 
@@ -79,48 +150,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : PCB1_Paste_Bot.gbr
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D42
-*************************************************************
-
-*************************************************************
-Generating : Top Solder
-      File : PCB1_Soldermask_Top.gbr
-
-    Adding Layer      : Top Solder
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D17
-    D18
-    D19
-    D20
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-*************************************************************
-
-*************************************************************
 Generating : Top Layer
       File : PCB1_Copper_Signal_Top.gbr
 
@@ -146,35 +175,6 @@ Used DCodes :
     D39
     D40
     D41
-*************************************************************
-
-*************************************************************
-Generating : Top Paste
-      File : PCB1_Paste_Top.gbr
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D14
-    D15
-    D16
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB1_Legend_Bot.gbr
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
 *************************************************************
 
 *************************************************************
