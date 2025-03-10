@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+E:\aKaReZa\#gitHub\eBoard_7Segments\Arduino_7Segments\Project Outputs for Arduino_7Segments\Generates pick and place files\Pick Place for PCB1.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       10/03/25
+Time:       18:52
+Revision:   3999c50652beecee1137022a10c890827bdb6629
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description"
+"R11","470b","BottomLayer","RES_1206_(3216X08L)","42.6470","61.5950","180","Resistor"
+"R10","470b","BottomLayer","RES_1206_(3216X08L)","42.6470","58.9915","180","Resistor"
+"R9","470b","BottomLayer","RES_1206_(3216X08L)","42.6470","56.3880","180","Resistor"
+"DS2","SSD1306","TopLayer","OLED_SSD1306_64_I2C","19.8120","40.6400","0","Oled Display"
+"U3","ULN2003","TopLayer","CDIP16","40.5130","42.0370","180","Seven darlington array drivers"
+"S4","PB","TopLayer","SW_PB_SMD_2PIN_SPST_6X3X2","50.1650","66.6750","180","SMT Tactile ?Switch"
+"U1","74HCT244","TopLayer","PDIP20","40.5130","16.3830","0","Octal Bus Buffer with 3 State Outputs (Non Inverted)"
+"S1","PB","TopLayer","SW_PB_SMD_2PIN_SPST_6X3X2","10.4140","7.4930","90","SMT Tactile ?Switch"
+"S2","PB","TopLayer","SW_PB_SMD_2PIN_SPST_6X3X2","18.1610","7.4930","90","SMT Tactile ?Switch"
+"S3","PB","TopLayer","SW_PB_SMD_2PIN_SPST_6X3X2","25.9080","7.4930","90","SMT Tactile ?Switch"
+"R16","4.7K","BottomLayer","RES_1206_(3216X08L)","17.7520","35.6870","180","Resistor"
+"R15","4.7K","BottomLayer","RES_1206_(3216X08L)","17.7520","33.1470","180","Resistor"
+"R14","4.7K","TopLayer","RES_1206_(3216X08L)","6.8580","10.1320","270","Resistor"
+"R13","4.7K","TopLayer","RES_1206_(3216X08L)","14.6050","10.1320","270","Resistor"
+"R12","4.7K","TopLayer","RES_1206_(3216X08L)","22.2250","10.1320","270","Resistor"
+"R8","470b","BottomLayer","RES_1206_(3216X08L)","17.9705","48.2320","270","Resistor"
+"R7","470b","BottomLayer","RES_1206_(3216X08L)","23.1140","48.2320","270","Resistor"
+"R6","470b","BottomLayer","RES_1206_(3216X08L)","18.0340","68.6080","90","Resistor"
+"R5","470b","BottomLayer","RES_1206_(3216X08L)","12.8270","48.2320","270","Resistor"
+"R4","470b","BottomLayer","RES_1206_(3216X08L)","15.3988","48.2320","270","Resistor"
+"R3","470b","BottomLayer","RES_1206_(3216X08L)","20.5423","48.2320","270","Resistor"
+"R2","470b","BottomLayer","RES_1206_(3216X08L)","25.7810","68.6080","90","Resistor"
+"R1","470b","BottomLayer","RES_1206_(3216X08L)","15.3670","68.6080","90","Resistor"
+"P1","UNO","TopLayer","Arduino_uno_S_3","27.8130","28.3210","0","Arduino uno slave"
+"DS1","4Digit, Red","TopLayer","7Seg-MPX4-30.2x14.1mm","19.3040","58.6740","0","7Segment-MPX4-CC"
+"D1","RGB","TopLayer","RGB_DIP","50.2920","59.2291","270","SMD 5050 LED RGB and Other"
+"C3","100n","TopLayer","Cap_-_100nF","6.8580","4.4750","90","Multi layer capacitor"
+"C2","100n","TopLayer","Cap_-_100nF","14.5415","4.4750","90","Multi layer capacitor"
+"C1","100n","TopLayer","Cap_-_100nF","22.2250","4.4750","90","Multi layer capacitor"
