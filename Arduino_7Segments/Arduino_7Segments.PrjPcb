@@ -100,6 +100,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document4]
+DocumentPath=PCB1.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MBGNGLDA
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Arduino_7Segments\Report Project Hierarchy\Arduino_7Segments.REP
 DItemRevisionGUID=
@@ -193,20 +210,28 @@ DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz61C5.xls
 DItemRevisionGUID=
 
 [GeneratedDocument24]
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz2622.xls
+DItemRevisionGUID=
+
+[GeneratedDocument25]
 DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzAB14.xls
 DItemRevisionGUID=
 
+[GeneratedDocument26]
+DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzC250.xls
+DItemRevisionGUID=
+
 [Parameter1]
-Name=Revision
-Value=1.0
+Name=CompanyName
+Value=github.com/aKaReZa75
 
 [Parameter2]
 Name=Project_Name
 Value=7Segment Shield
 
 [Parameter3]
-Name=CompanyName
-Value=github.com/aKaReZa75
+Name=Revision
+Value=1.0
 
 [Configuration1]
 Name=Sources
