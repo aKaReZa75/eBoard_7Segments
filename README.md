@@ -4,6 +4,15 @@ This project involves designing, assembling, and testing an Arduino shield with 
 ![7Segment Shield](Images/7Seg_Shield1.png)
 ![7Segment Shield](Images/7Seg_Shield2.jfif)
 
+> [!CAUTION]
+> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+
+> [!TIP]
+> If you're looking to better understand how to navigate and use my GitHub repositories — including exploring their structure, downloading or cloning projects, submitting issues, and asking questions 
+> everything you need is clearly explained in this video:  
+> [aKaReZa 95 - Programming, Git - PART B](https://youtu.be/zYiUItVFRqQ)   
+> Make sure to check it out!
+
 ## Detailed Description
 | Aspect               | Description                  |
 |----------------------|------------------------------|
@@ -63,10 +72,6 @@ This project involves designing, assembling, and testing an Arduino shield with 
 - [aKaReZa 42 - Repair, Arduino 7Segment Shield Soldering](https://youtu.be/1Rpm_uHoqAg)  
   ---  
   In this video, we assemble the 7-segment and OLED shield we designed after printing it, and we learn several important tips about proper soldering techniques for SMD and THD components.
-
-
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
