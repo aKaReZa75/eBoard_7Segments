@@ -26,7 +26,7 @@ This project involves designing, assembling, and testing an Arduino shield with 
       </a>
     </td>
   </tr>
-</table>!
+</table>
 
 ## Detailed Description
 | Aspect               | Description                  |
