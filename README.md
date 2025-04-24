@@ -61,17 +61,62 @@ This project involves designing, assembling, and testing an Arduino shield with 
   This repository offers a comprehensive guide to learning **various microcontrollers** and how to interface them with different shields. You’ll find tutorials on **using and configuring shields**, along with hands-on projects to help you **get your microcontrollers up and running**. Whether you're working with **Arduino, STM32, ESP32**, or others, this resource will help you understand how to integrate these platforms effectively for your projects.
 
 ## Project Videos
-- [aKaReZa 36 - PCB, 7Segment Shield - Part A](https://youtu.be/BtFFsqzkCSk)  
-  ---  
-  In this video, we design our first double-layer PCB. The board we design is an Arduino shield that includes a 7-segment display, push buttons, and an Oled display.
+<table style="border-collapse: collapse;">
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/BtFFsqzkCSk">aKaReZa 36 – PCB, 7Segment Shield - Part A</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, we design our first double-layer PCB. The board we design is an Arduino shield that includes a 7-segment display, push buttons, and an Oled display.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/BtFFsqzkCSk">
+        <img src="https://img.youtube.com/vi/BtFFsqzkCSk/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 36 – PCB, 7Segment Shield - Part A Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKaReZa 40 - PCB, 7Segment Shield - Part B](https://youtu.be/yqlKacCi0RM)  
-  ---  
-  In this video, we examine the issues with the 7-segment and Oled Arduino shield we designed in the previous video, which was routed using Auto Route. We review the problems and discuss manual routing along with important tips to follow during manual routing.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/yqlKacCi0RM">aKaReZa 40 – PCB, 7Segment Shield - Part B</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, we examine the issues with the 7-segment and Oled Arduino shield we designed in the previous video, which was routed using Auto Route. We review the problems and discuss manual routing along with important tips to follow during manual routing.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/yqlKacCi0RM">
+        <img src="https://img.youtube.com/vi/yqlKacCi0RM/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 40 – PCB, 7Segment Shield - Part B Thumbnail"/>
+      </a>
+    </td>
+  </tr>
 
-- [aKaReZa 42 - Repair, Arduino 7Segment Shield Soldering](https://youtu.be/1Rpm_uHoqAg)  
-  ---  
-  In this video, we assemble the 7-segment and OLED shield we designed after printing it, and we learn several important tips about proper soldering techniques for SMD and THD components.
+  <tr>
+    <td valign="top" style="padding: 0 10px;">
+      <h3 style="margin: 0;">
+        <a href="https://youtu.be/1Rpm_uHoqAg">aKaReZa 42 – Repair, Arduino 7Segment Shield Soldering</a>
+      </h3>
+      <p style="margin: 8px 0 0;">
+        In this video, we assemble the 7-segment and OLED shield we designed after printing it, and we learn several important tips about proper soldering techniques for SMD and THD components.
+      </p>
+    </td>
+    <td width="360" valign="top" style="padding: 0;">
+      <a href="https://youtu.be/1Rpm_uHoqAg">
+        <img src="https://img.youtube.com/vi/1Rpm_uHoqAg/maxresdefault.jpg"
+             width="360"
+             alt="aKaReZa 42 – Repair, Arduino 7Segment Shield Soldering Thumbnail"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 # 💻 How to Use Git and GitHub
 To access the repository files and save them on your computer, there are two methods available:
