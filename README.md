@@ -4,9 +4,6 @@ This project involves designing, assembling, and testing an Arduino shield with 
 ![7Segment Shield](Images/7Seg_Shield1.png)
 ![7Segment Shield](Images/7Seg_Shield2.jfif)
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 <table>
   <tr>
   <td valign="top">
@@ -25,7 +22,17 @@ This project involves designing, assembling, and testing an Arduino shield with 
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 ## Detailed Description
