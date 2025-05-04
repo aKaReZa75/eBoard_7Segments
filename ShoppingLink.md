@@ -12,7 +12,7 @@ Each item includes direct purchase links from reliable Iranian electronics suppl
 
 ## Integrated Circuit
 - [ ] [**IC_ULN2003_THT**](https://roboeq.ir/products/detail/0318002/%D8%AF%D8%B1%D8%A7%DB%8C%D9%88%D8%B1-ULN2003L-/) Quantity: 1, Prefer: 1, Supplier: RoboEq  
-- [ ] [**'IC_74HCT244_THT**](https://roboeq.ir/products/detail/0311015/%D8%A2%DB%8C-%D8%B3%DB%8C-%D8%A8%D8%A7%D9%81%D8%B1-%D8%B3%D9%87-%D8%AD%D8%A7%D9%84%D8%AA%D9%87-74HC244/) Quantity: 1, Prefer: 1, Supplier: RoboEq  
+- [ ] [**IC_74HCT244_THT**](https://roboeq.ir/products/detail/0311015/%D8%A2%DB%8C-%D8%B3%DB%8C-%D8%A8%D8%A7%D9%81%D8%B1-%D8%B3%D9%87-%D8%AD%D8%A7%D9%84%D8%AA%D9%87-74HC244/) Quantity: 1, Prefer: 1, Supplier: RoboEq  
 
 ## Module and Sensor
 - [ ] [**7Seg_MPX4_CC**](https://roboeq.ir/products/detail/1203013/%D8%B3%D9%88%D9%86-%D8%B3%DA%AF%D9%85%D9%86%D8%AA-%DA%86%D9%87%D8%A7%D8%B1-%D8%AA%D8%A7%DB%8C%DB%8C-%DA%A9%D8%A7%D8%AA%D8%AF-%D9%85%D8%B4%D8%AA%D8%B1%DA%A9-3015-%D9%82%D8%B1%D9%85%D8%B2/) Quantity: 1, Prefer: 1, Supplier: RoboEQ
