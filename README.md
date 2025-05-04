@@ -82,6 +82,10 @@ This project involves designing, assembling, and testing an Arduino shield with 
   ---  
   This repository offers a comprehensive guide to learning **various microcontrollers** and how to interface them with different shields. You’ll find tutorials on **using and configuring shields**, along with hands-on projects to help you **get your microcontrollers up and running**. Whether you're working with **Arduino, STM32, ESP32**, or others, this resource will help you understand how to integrate these platforms effectively for your projects.
 
+- [Shopping Link](./ShoppingLink.md)  
+  ---
+  This document provides links to trusted suppliers where you can purchase all the essential components for this project, ensuring quality and reliability.
+
 ## Project Videos
 <table style="border-collapse: collapse;">
   <tr>
