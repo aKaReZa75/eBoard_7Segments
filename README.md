@@ -1,8 +1,7 @@
 # 7Segment Shield
 This project involves designing, assembling, and testing an Arduino shield with a 7-segment display. The board includes a 7-segment display, push buttons, and an Oled display.
 
-![7Segment Shield](Images/7Seg_Shield1.png)
-![7Segment Shield](Images/7Seg_Shield2.jfif)
+![7Segment Shield](Images/7Seg_Shield.png)
 
 <table>
   <tr>
