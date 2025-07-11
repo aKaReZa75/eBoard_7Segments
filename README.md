@@ -85,6 +85,22 @@ This project involves designing, assembling, and testing an Arduino shield with 
   ---
   This document provides links to trusted suppliers where you can purchase all the essential components for this project, ensuring quality and reliability.
 
+```plaintext
+Arduino Shields
+   ├── [aKaReZa 36 - eBoard, 7Segment Shield - Part A]
+   │   ├─ PCB Design — Two-layer Arduino shield with displays and buttons.
+   │   ├─ Components — 74HC244, ULN2003, OLED, 7-segment, push buttons.
+   │   └─ Layout — Schematic, placement, routing + Altium automation.
+   │
+   ├── [aKaReZa 40 - eBoard, 7Segment Shield - Part B]
+   │   ├─ Troubleshooting — Routing issues and manual optimizations.
+   │   └─ Review — Vias, GND problems, and connectivity fixes.
+   │
+   └── [aKaReZa 42 - Repair, Arduino 7Segment Shield Soldering]
+       ├─ Assembly — Soldering tools, SMD + THD techniques.
+       └── Components — ICs, buttons, displays, RGB LEDs, pin headers.
+```     
+
 ## Project Videos
 <table style="border-collapse: collapse;">
   <tr>
