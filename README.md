@@ -44,29 +44,30 @@ This project involves designing, assembling, and testing an Arduino shield with 
 | Oled                 | SSD1306 - 0.96" - 128X64 - I2C |
 | PushButtom           | SMT Tactile 2PIN - SPST - 6X3X2 |
 
-## Pinout
-| **Shield Pin**             | **Arduino Pin**      | **ATMega328 Pin**            |
-|:--------------------------:|:--------------------:|:----------------------------:|
-| **Segment A (7-Segment)**  | **Analog Pin A0**    | **Port C, Pin 0 (PC0)**      |
-| **Segment B (7-Segment)**  | **Analog Pin A1**    | **Port C, Pin 1 (PC1)**      |
-| **Segment C (7-Segment)**  | **Analog Pin A2**    | **Port C, Pin 2 (PC2)**      |
-| **Segment D (7-Segment)**  | **Analog Pin A3**    | **Port C, Pin 3 (PC3)**      |
-| **Segment E (7-Segment)**  | **Digital Pin D0**   | **Port D, Pin 0 (PD0)**      |
-| **Segment F (7-Segment)**  | **Digital Pin D1**   | **Port D, Pin 1 (PD1)**      |
-| **Segment G (7-Segment)**  | **Digital Pin D4**   | **Port D, Pin 4 (PD4)**      |
-| **Decimal Point (7-Segment)** | **Digital Pin D7** | **Port D, Pin 7 (PD7)**     |
-| **Digit 1 (Common Cathode)**  | **Digital Pin D8**  | **Port B, Pin 0 (PB0)**    |
-| **Digit 2 (Common Cathode)**  | **Digital Pin D9**  | **Port B, Pin 1 (PB1)**    |
-| **Digit 3 (Common Cathode)**  | **Digital Pin D10** | **Port B, Pin 2 (PB2)**    |
-| **Digit 4 (Common Cathode)**  | **Digital Pin D12** | **Port B, Pin 4 (PB4)**    |
-| **Switch 1 (Active High)**    | **Digital Pin D13** | **Port B, Pin 5 (PB5)**    |
-| **Switch 2 (Active High)**    | **Digital Pin D3**  | **Port D, Pin 3 (PD3)**    |
-| **Switch 3 (Active High)**    | **Digital Pin D2**  | **Port D, Pin 2 (PD2)**    |
-| **RGB Green  (Active High)**  | **Digital Pin D5**  | **Port D, Pin 5 (PD5)**    |
-| **RGB Blue (Active High)**    | **Digital Pin D6**  | **Port D, Pin 6 (PD6)**    |
-| **RGB RED (Active High)**     | **Digital Pin D11** | **Port B, Pin 3 (PB3)**    |
-| **Serial Data (SDA)**      | **Analog Pin A4**    | **Port C, Pin 4 (PC4)**      |
-| **Serial Clock (SCL)**     | **Analog Pin A5**    | **Port C, Pin 5 (PC5)**      |
+## **Pinout Mapping Table**
+|         **Shield Pin**        | **Arduino Pin** | **ATmega328P Pin** | **STM32F103C8T6 Pin** |
+| :---------------------------: | :-------------: | :----------------: | :-------------------: |
+|   **Segment A (7-Segment)**   |        A0       |         PC0        |          PA0          |
+|   **Segment B (7-Segment)**   |        A1       |         PC1        |          PA1          |
+|   **Segment C (7-Segment)**   |        A2       |         PC2        |          PA2          |
+|   **Segment D (7-Segment)**   |        A3       |         PC3        |          PA3          |
+|   **Segment E (7-Segment)**   |        D0       |         PD0        |          PB11         |
+|   **Segment F (7-Segment)**   |        D1       |         PD1        |          PB10         |
+|   **Segment G (7-Segment)**   |        D4       |         PD4        |          PA7          |
+| **Decimal Point (7-Segment)** |        D7       |         PD7        |          PA9          |
+|  **Digit 1 (Common Cathode)** |        D8       |         PB0        |          PA15         |
+|  **Digit 2 (Common Cathode)** |        D9       |         PB1        |          PA8          |
+|  **Digit 3 (Common Cathode)** |       D10       |         PB2        |          PB12         |
+|  **Digit 4 (Common Cathode)** |       D12       |         PB4        |          PB14         |
+|   **Switch 1 (Active High)**  |       D13       |         PB5        |          PB13         |
+|   **Switch 2 (Active High)**  |        D3       |         PD3        |          PA6          |
+|   **Switch 3 (Active High)**  |        D2       |         PD2        |          PB2          |
+|  **RGB Green (Active High)**  |        D5       |         PD5        |          PB0          |
+|   **RGB Blue (Active High)**  |        D6       |         PD6        |          PB1          |
+|   **RGB RED (Active High)**   |       D11       |         PB3        |          PB15         |
+|     **Serial Data (SDA)**     |        A4       |         PC4        |          PB9          |
+|     **Serial Clock (SCL)**    |        A5       |         PC5        |          PB8          |
+
 
 ## Resources
 - [Altium Library](https://github.com/aKaReZa75/Altium-Library)  
