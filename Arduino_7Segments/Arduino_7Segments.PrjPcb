@@ -201,26 +201,6 @@ DItemRevisionGUID=
 DocumentPath=Project Outputs for Arduino_7Segments\Generates pick and place files\Pick Place for PCB1.txt
 DItemRevisionGUID=
 
-[GeneratedDocument22]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz5FF1.xls
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz61C5.xls
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\Qjz2622.xls
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzAB14.xls
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=C:\Users\Hossein\AppData\Local\Temp\QjzC250.xls
-DItemRevisionGUID=
-
 [Parameter1]
 Name=CompanyName
 Value=github.com/aKaReZa75
@@ -656,6 +636,11 @@ OutputName9=Report Single Pin Nets
 OutputDocumentPath9=
 OutputVariantName9=[No Variations]
 OutputDefault9=0
+OutputType10=BoasTools
+OutputName10=BoasTools Html BOM
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
 
 [OutputGroup7]
 Name=Other Outputs
